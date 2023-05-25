@@ -1,0 +1,19 @@
+body
+{
+    text-align: center;
+    justify-content: center;
+    background-image: url("images.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: cursive;
+}
+.btn
+{
+    width: 120px;
+    height: 30px;
+    border: 2px solid;
+    border-radius: 5px;
+    color: #0C134F;
+    position: absolute;
+    cursor: pointer;
+}
